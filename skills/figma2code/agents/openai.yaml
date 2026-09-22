@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma2Code"
+  short_description: "Recreate Figma pages with measured visual feedback"
+  default_prompt: "Use $figma2code to reproduce this Figma frame in my project and verify it against browser screenshots."

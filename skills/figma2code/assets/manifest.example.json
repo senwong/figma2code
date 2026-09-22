@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "figma": {
+    "fileKey": null,
+    "frameNodeId": null,
+    "version": null,
+    "frameOrigin": {
+      "x": 0,
+      "y": 0
+    },
+    "exportScale": 1
+  },
+  "page": {
+    "url": "http://localhost:3000",
+    "startCommand": null
+  },
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "dpr": 1
+    }
+  ],
+  "states": [
+    "default"
+  ],
+  "environment": {
+    "browserVersion": null,
+    "locale": "zh-CN",
+    "screenshotScale": "css",
+    "fonts": []
+  },
+  "mappings": [],
+  "thresholds": {
+    "geometryCssPx": 2,
+    "pixelChannelDifference": 16
+  },
+  "maxIterations": 5,
+  "assumptions": [],
+  "unresolved": []
+}
